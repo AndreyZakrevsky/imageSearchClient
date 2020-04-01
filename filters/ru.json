@@ -1,0 +1,18 @@
+{
+  "test": "Русский",
+  "header-menu": "Меню",
+  "header-exit": "Выход",
+  "login-title": "Вход",
+  "login-email-placeholder": "Почта",
+  "login-password-placeholder": "Пароль",
+  "register-yet": "Вы еще не зарегистрированы ?",
+  "register": "Зарегистрируйтесь",
+  "upload-photo": "Фото",
+  "register-email-placeholder": "Почта",
+  "register-name-placeholder": "Имя",
+  "register-phone-placeholder": "Телефон",
+  "register-password-placeholder": "Пароль",
+  "register-sekret-placeholder": "Сикретный тег",
+  "register-yet2": "Уже зарегистртированы ?",
+  "nobody_sell": "НИКТО НЕ ТОРГУЕТ В СЕТИ ......"
+}

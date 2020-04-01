@@ -1,0 +1,18 @@
+{
+  "test": "English",
+  "header-menu": "Menu",
+  "header-exit": "Exit",
+  "login-title": "Login",
+  "login-email-placeholder": "Email",
+ "login-password-placeholder": "Password",
+  "register-yet": "Not a member yet ?",
+  "register": "Register",
+  "upload-photo": "Photo",
+  "register-email-placeholder": "Email",
+  "register-name-placeholder": "Name",
+  "register-phone-placeholder": "Phone",
+  "register-password-placeholder": "Password",
+  "register-sekret-placeholder": "Secret tag",
+  "register-yet2": "Already a member ?",
+  "nobody_sell": "NO ONE TRADES ON THE NET ......"
+}

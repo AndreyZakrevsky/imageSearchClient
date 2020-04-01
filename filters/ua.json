@@ -1,0 +1,18 @@
+{
+  "test": "Українська",
+  "header-menu": "Меню",
+  "header-exit": "Вихід",
+  "login-title": "Вхід",
+  "login-email-placeholder": "Пошта",
+  "login-password-placeholder": "Пароль",
+  "register-yet": "Ви ще не зареєстровані ?",
+  "register": "Зареєструйтесь",
+  "upload-photo": "Фото",
+  "register-email-placeholder": "Пошта",
+  "register-name-placeholder": "Ім'я",
+  "register-phone-placeholder": "Телефон",
+  "register-password-placeholder": "Пароль",
+  "register-sekret-placeholder": "Сикретний тег",
+  "register-yet2": "Уже зарегістртіровани?",
+  "nobody_sell": "НІХТО НЕ ТОРГУЄ В МЕРЕЖІ ......"
+}
